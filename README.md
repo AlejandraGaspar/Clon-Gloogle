@@ -6,7 +6,7 @@ Sitio web desarrollado con HTML para el bootcamp de technolochicas PRO, en el cu
 
 ### Link del proyecto
 
-[Proyecto desplegado](assets/1.png)
+[Proyecto desplegado](https://dancing-croquembouche-4e8768.netlify.app/)
 
 ### Capturas del proyecto
 
